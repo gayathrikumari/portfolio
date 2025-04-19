@@ -4,11 +4,6 @@
     <div class="w3-content" style="max-width:1100px">
         <h2 class="w3-center">Course Reflection</h2>
         <p class="w3-center w3-large">My journey through the Information Security course</p>
-        
-        <div class="w3-container w3-padding-64 w3-light-grey">
-            <div class="w3-content" style="max-width:1100px">
-                <h2 class="w3-center">Course Reflection</h2>
-                <p class="w3-center w3-large">My journey through the Information Security course</p>
                 
                 <div class="w3-row-padding w3-center" style="margin-top:64px">
                     <div class="w3-col m6">
