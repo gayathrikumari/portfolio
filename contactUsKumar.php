@@ -3,16 +3,16 @@
 <div class="w3-container w3-padding-64 w3-pale-blue w3-grayscale-min" id="contact">
     <div class="w3-content" style="max-width:1100px">
         <h2 class="w3-center">Contact Us</h2>
-        <p class="w3-center w3-large">Have questions? Reach out to our cybersecurity team</p>
+        <p class="w3-center w3-large">Have questions? Reach out to our cybersecurity expert Dr. T</p>
         
         <div class="w3-row-padding" style="margin-top:64px">
             <div class="w3-half">
                 <p><i class="fa fa-map-marker w3-xxlarge w3-text-blue"></i></p>
-                <p>New York, US</p>
+                <p>Denton, TX</p>
                 <p><i class="fa fa-phone w3-xxlarge w3-text-blue"></i></p>
-                <p>Phone: +1 123456789</p>
+                <p>Phone</p>
                 <p><i class="fa fa-envelope w3-xxlarge w3-text-blue"></i></p>
-                <p>Email: contact@cybersecurity.com</p>
+                <p>Email</p>
             </div>
             
             <div class="w3-half">
