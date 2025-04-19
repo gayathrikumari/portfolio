@@ -50,7 +50,7 @@
                 <a href="drT.php">
                 <div class="w3-right w3-padding-large w3-white" style="display:flex; align-items:center;">
                 <div class="flashing-border" style="display:flex; align-items:center; padding:6px 12px; border-radius:8px;">
-                    <span style="margin-right:10px; font-weight:bold; color:black;">Tribute to</span>
+                    <span style="margin-right:10px; font-weight:bold; color:black;">Click here for a tribute to</span>
                     <img src="images/DrT.png" alt="Logo" style="height:30px;">
                 </div>
                 </div>
